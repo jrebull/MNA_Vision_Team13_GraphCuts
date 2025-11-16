@@ -1,4 +1,4 @@
-# 🎨 Graph Cuts Interactive Segmentation - Enhanced
+# 🎨 Graph Cuts Interactive Segmentation - Team 13 MNA Vision
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)](https://opencv.org/)
@@ -8,7 +8,9 @@
 
 Implementación mejorada del algoritmo Graph Cuts (Boykov & Jolly, 2001) con interfaz gráfica moderna en PyQt5, que permite ajustar parámetros de segmentación en tiempo real y generar stickers con transparencia.
 
-![Demo](examples/results/Joss_Pipeline_Completo.png)
+<p align="center">
+  <img src="examples/results/Joss_Pipeline_Completo.png" alt="Demo Pipeline" width="800">
+</p>
 
 ---
 
