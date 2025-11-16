@@ -8,7 +8,7 @@
 
 Implementación mejorada del algoritmo Graph Cuts (Boykov & Jolly, 2001) con interfaz gráfica moderna en PyQt5, que permite ajustar parámetros de segmentación en tiempo real y generar stickers con transparencia.
 
-![Demo](docs/demo_screenshot.png)
+![Demo](examples/results/Joss_Pipeline_Completo.png)
 
 ---
 
@@ -333,7 +333,7 @@ pip install PyQt5
 
 **Institución:** Tecnológico de Monterrey  
 **Programa:** Maestría en Inteligencia Artificial Aplicada  
-**Fecha:** Diciembre 2024
+**Fecha:** Diciembre 2025
 
 ---
 
