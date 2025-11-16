@@ -8,7 +8,7 @@
 
 Implementación mejorada del algoritmo Graph Cuts (Boykov & Jolly, 2001) con interfaz gráfica moderna en PyQt5, que permite ajustar parámetros de segmentación en tiempo real y generar stickers con transparencia.
 
-![Demo](https://github.com/jrebull/MNA_Vision_Team13_GraphCuts/blob/main/examples/results/Joss_Pipeline_Completo.png)
+![Demo](examples/results/Joss_Pipeline_Completo.png)
 
 ---
 
